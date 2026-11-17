@@ -1,0 +1,4 @@
+interface:
+  display_name: "PR Workflow"
+  short_description: "Split commits and deliver one PR per repository"
+  default_prompt: "사용자가 요청한 전달 단계까지만 $pr-workflow를 적용하고, 필요한 경우에만 논리 커밋·저장소별 PR 구성·병합 준비 확인을 수행하며, 이미 승인된 단계는 재확인 없이 진행해줘."

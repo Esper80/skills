@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Radius · 리뷰 대응"
+  short_description: "반복 리뷰의 원인을 확인하고 필요한 수정·검증을 완료합니다."
+  default_prompt: "Use $review-radius to validate repeated PR feedback, fix related causes within the authorized scope, and report verification and delivery."
